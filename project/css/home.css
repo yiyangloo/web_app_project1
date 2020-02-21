@@ -1,0 +1,15 @@
+.developer-photo{
+border-radius: 50%;
+width: 40%;
+margin:5% 30% 5% 30%;
+}
+
+.footer-info{
+  background-color: #313131 ;
+}
+
+.footer-copyright{
+  background-color: #1d1d1d ;
+  color: rgb(1, 255, 255);
+}
+
