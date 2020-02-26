@@ -1,7 +1,8 @@
-# web_app_project1
+Web Application Project
 Finance Tracker
 
 PLEASE SET UP THE DATABASE BEFORE USING THE WEB APPLICATION
+THE database used in this project comes with the XAMPP open-source cross-platform web server solution stack package.
 
 Please ensure the following information is the same
 servername = "localhost"
