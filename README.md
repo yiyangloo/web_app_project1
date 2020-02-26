@@ -1,14 +1,14 @@
-*Web Application Project*
-Finance Tracker
+# Web Application Project - Finance Tracker
 
-PLEASE SET UP THE DATABASE BEFORE USING THE WEB APPLICATION
-THE database used in this project comes with the XAMPP open-source cross-platform web server solution stack package.
+### The database used in this project comes with the XAMPP open-source cross-platform web server solution stack package.
 
 Please ensure the following information is the same
+```
 servername = "localhost"
 username = "root"
 password = ""
 dbname = "project_wa"
+```
 Can change the connection to database via xampp\htdocs\project\common\db_conn.php
 
 1. CREATE DATABASE project_wa;
