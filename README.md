@@ -1,4 +1,4 @@
-Web Application Project
+*Web Application Project*
 Finance Tracker
 
 PLEASE SET UP THE DATABASE BEFORE USING THE WEB APPLICATION
